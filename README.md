@@ -265,4 +265,4 @@ Have suggestions or improvements? Feel free to contribute to this learning resou
 
 ---
 
-**Happy Learning!** 🎓 Start with [1_dataTypes.py](1_dataTypes.py) today!
+**Happy Learning!** Start with [1_dataTypes.py](1_dataTypes.py) today!
