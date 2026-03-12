@@ -6,7 +6,7 @@ name = "John Doe"
 unicode = u"\U0001F600" # Unicode string literal for the character '😀'
 unicode2 = u"\u00A9" # Unicode string literal for the character '©'
 raw_str = r"raw \n str" # Raw string literal where backslashes are treated as literal characters
-print(name, unicode, unicode2, raw_str)
+print("String: ", name, "Unicode: ", unicode, "Unicode2: ", unicode2, "Raw String: ", raw_str)
 # 2. Numeric Literals: These are numbers that can be integers or floating-point numbers. For example:
 age = 30
 b = 0b1010 # binary literal for 10
@@ -16,7 +16,15 @@ pi = 3.14
 b1 = 1.5e2 # scientific notation for 150.0
 c1 = 1.5e-2 # scientific notation for 0.015
 e = 1.5j # complex number literal with imaginary part 1.5
-print(age, b, c, d, pi, b1, c1, e)
+print("Numeric literals:")
+print("age:", age, "->", type(age))
+print("b:", b, "->", type(b))
+print("c:", c, "->", type(c))
+print("d:", d, "->", type(d))
+print("pi:", pi, "->", type(pi))
+print("b1:", b1, "->", type(b1))
+print("c1:", c1, "->", type(c1))
+print("e:", e, "->", type(e))
 # 3. Boolean Literals: These are the values True and False. For example:
 is_student = True
 is_employed = False
