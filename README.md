@@ -219,13 +219,13 @@ Once you've forked the repository, clone it to your local machine:
 
 **On Windows (PowerShell):**
 ```powershell
-git clone https://github.com/YOUR-USERNAME/Python.git
+git clone https://github.com/Pratyush112/Python-Course.git
 cd Python
 ```
 
 **On macOS/Linux (Terminal):**
 ```bash
-git clone https://github.com/YOUR-USERNAME/Python.git
+git clone https://github.com/Pratyush112/Python-Course.git
 cd Python
 ```
 
