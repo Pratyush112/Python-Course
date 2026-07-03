@@ -7,22 +7,49 @@ Welcome to the **Complete Python Course for Beginners**! This comprehensive cour
 This course is organized into modules that progressively build your Python skills:
 
 ### Module 1: Foundations
-- **[1_dataTypes.py](1_dataTypes.py)** - Learn about Python's fundamental data types (int, float, str, bool, list, dict, tuple, set)
+- **[1_dataType.ipynb](1_dataType.ipynb)** - Learn about Python's fundamental data types (int, float, str, bool, list, dict, tuple, set)
 - **[2_Variable.py](2_Variable.py)** - Understand how to declare, assign, and manage variables
-- **[3_keyworsandIdentifiers.py](3_keyworsandIdentifiers.py)** - Master Python keywords and proper identifier naming conventions
-- **[4_userInput.py](4_userInput.py)** - Learn how to interact with users through input/output operations
+- **[3_keyworsandIdentifiers.ipynb](3_keyworsandIdentifiers.ipynb)** - Master Python keywords and proper identifier naming conventions
+- **[4_userInput.ipynb](4_userInput.ipynb)** - Learn how to interact with users through input/output operations
 - **[5_typeConversion.py](5_typeConversion.py)** - Explore type casting and conversion between different data types
 - **[6_Literals.py](6_Literals.py)** - Understand literal values and how they are used in Python
 
-> **More modules are being added daily!** Stay tuned for additional topics on control flow, functions, object-oriented programming, file handling, and much more.
+### Module 2: Control Flow & Operators
+- **[7_Operators.ipynb](7_Operators.ipynb)** - Master all Python operators (Arithmetic, Comparison, Logical, Bitwise, Assignment, Identity, and Membership)
+- **[8_IfElse.ipynb](8_IfElse.ipynb)** - Decision making with if, else, elif, and nested conditional statements
+- **[9_Loops.ipynb](9_Loops.ipynb)** - Loops (while, for), range function, nested loops, and break/continue/pass
+
+### Module 3: Built-in Functions & Data Structures
+- **[10_Builtin_Func_Mod.ipynb](10_Builtin_Func_Mod.ipynb)** - Built-in functions (abs, pow, min/max, round, etc.) and modules (math, random, time)
+- **[11_Strings.ipynb](11_Strings.ipynb)** - String indexing, slicing, operations, and string methods (find, replace, format, etc.)
+- **[12_Lists.ipynb](12_Lists.ipynb)** - Lists and list operations *(Coming Soon)*
+- **[13_sets.ipynb](13_sets.ipynb)** - Sets, set operations (add, difference, intersection, update)
+- **[14_dictionary.ipynb](14_dictionary.ipynb)** - Dictionaries and key-value pair operations *(In Progress)*
+- **[15_Tuples.ipynb](15_Tuples.ipynb)** - Tuples *(Coming Soon)*
+
+### Module 4: Functions
+- **[16_Functions.ipynb](16_Functions.ipynb)** - User-defined functions, default/positional/keyword arguments, *args and **kwargs
+
+### Module 5: Object-Oriented Programming (OOP)
+- **[17_OOP_Part1.ipynb](17_OOP_Part1.ipynb)** - Classes, objects, constructors, dunder methods, reference variables, and pass by reference
+- **[18_OOP_Part2.ipynb](18_OOP_Part2.ipynb)** - Encapsulation, access modifiers (public/private/protected), static vs instance variables, and collection of objects
+- **[19_OOP_Part3.ipynb](19_OOP_Part3.ipynb)** - Inheritance (single, multilevel, hierarchical, multiple, hybrid), method overriding, and super keyword
+- **[20_OOP_Part4.ipynb](20_OOP_Part4.ipynb)** - Polymorphism (method overriding, method overloading, operator overloading)
+
+> **More modules are being added regularly!** Stay tuned for additional topics on file handling, exception handling, decorators, and more.
 
 ## Learning Outcomes
 
 By the end of this course, you will:
-- Understand Python's basic data types and structures
-- Work effectively with variables and identifiers
-- Handle user input and output
-- Convert between different data types
+- Understand Python's basic data types and data structures (lists, sets, dictionaries, tuples)
+- Work effectively with variables, identifiers, and operators
+- Handle user input and output with type conversion
+- Control program flow with conditionals and loops
+- Use built-in functions and modules (math, random, time)
+- Master string manipulation and formatting
+- Write reusable code with functions, *args, and **kwargs
+- Build custom data types using Object-Oriented Programming
+- Apply OOP concepts: Encapsulation, Inheritance, and Polymorphism
 - Write clean, readable Python code following best practices
 
 ## Getting Started
@@ -142,9 +169,9 @@ python filename.py
 
 ## How to Use This Course
 
-1. Start with **[1_dataTypes.py](1_dataTypes.py)** to understand the foundation
+1. Start with **[1_dataType.ipynb](1_dataType.ipynb)** to understand the foundation
 2. Progress sequentially through each module
-3. Run each script and experiment with the code
+3. Run each notebook/script and experiment with the code
 4. Modify examples to deepen your understanding
 5. Complete exercises at the end of each module
 
@@ -171,12 +198,14 @@ python --version
 
 ## Next Steps
 
-After completing these fundamentals, you'll be ready to explore:
-- Control flow (if/else, loops)
-- Functions and modules
-- Object-oriented programming
-- File handling
-- Working with libraries and frameworks
+After completing this course, you'll be ready to explore:
+- Exception handling and error management
+- File handling and I/O operations
+- Decorators and generators
+- Regular expressions
+- Working with libraries and frameworks (NumPy, Pandas, Flask, Django)
+- Database connectivity
+- API development
 
 ## Support & Share This Course
 
@@ -265,4 +294,4 @@ Have suggestions or improvements? Feel free to contribute to this learning resou
 
 ---
 
-**Happy Learning!** Start with [1_dataTypes.py](1_dataTypes.py) today!
+**Happy Learning!** Start with [1_dataType.ipynb](1_dataType.ipynb) today!
