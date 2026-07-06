@@ -35,6 +35,7 @@ This course is organized into modules that progressively build your Python skill
 - **[18_OOP_Part2.ipynb](18_OOP_Part2.ipynb)** - Encapsulation, access modifiers (public/private/protected), static vs instance variables, and collection of objects
 - **[19_OOP_Part3.ipynb](19_OOP_Part3.ipynb)** - Inheritance (single, multilevel, hierarchical, multiple, hybrid), method overriding, and super keyword
 - **[20_OOP_Part4.ipynb](20_OOP_Part4.ipynb)** - Polymorphism (method overriding, method overloading, operator overloading)
+- **[21_OOP_Part5.ipynb](21_OOP_Part5.ipynb)** - Abstraction (Abstract Base Classes, `@abstractmethod`, interfaces, and blueprints)
 
 > **More modules are being added regularly!** Stay tuned for additional topics on file handling, exception handling, decorators, and more.
 
@@ -49,7 +50,7 @@ By the end of this course, you will:
 - Master string manipulation and formatting
 - Write reusable code with functions, *args, and **kwargs
 - Build custom data types using Object-Oriented Programming
-- Apply OOP concepts: Encapsulation, Inheritance, and Polymorphism
+- Apply OOP concepts: Encapsulation, Inheritance, Polymorphism, and Abstraction
 - Write clean, readable Python code following best practices
 
 ## Getting Started
