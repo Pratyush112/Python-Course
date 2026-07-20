@@ -40,7 +40,10 @@ This course is organized into modules that progressively build your Python skill
 ### Module 6: File Handling & Serialization
 - **[22_file_handling.ipynb](22_file_handling.ipynb)** - File I/O, context managers, `try-except` error handling, binary files, serialization with JSON, and Pickling
 
-> **More modules are being added regularly!** Stay tuned for additional topics on advanced exception handling, decorators, and more.
+### Module 7: Exception Handling
+- **[23_Exception_handling.ipynb](23_Exception_handling.ipynb)** - Runtime errors, `try-except` blocks, catching specific errors, the `raise` keyword, and creating Custom Exceptions
+
+> **More modules are being added regularly!** Stay tuned for additional topics on decorators, generators, and more.
 
 ## Learning Outcomes
 
@@ -54,7 +57,8 @@ By the end of this course, you will:
 - Write reusable code with functions, *args, and **kwargs
 - Build custom data types using Object-Oriented Programming
 - Apply OOP concepts: Encapsulation, Inheritance, Polymorphism, and Abstraction
-- Handle files, manage errors gracefully, and serialize objects using JSON and Pickle
+- Handle files and serialize objects using JSON and Pickle
+- Manage errors gracefully using `try-except` blocks, the `raise` keyword, and Custom Exceptions
 - Write clean, readable Python code following best practices
 
 ## Getting Started
